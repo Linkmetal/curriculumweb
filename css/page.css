@@ -9,7 +9,7 @@ body {
 	height: 100px;
 }
 
-section > p{
+.col-md-4 > section > p{
 	font-size: 80%;
 }
 
