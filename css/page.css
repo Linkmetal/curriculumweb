@@ -9,6 +9,10 @@ body {
 	height: 100px;
 }
 
+section > p{
+	font-size: 80%;
+}
+
 .icon {
 	width: 20px;
 	height: 20px;
