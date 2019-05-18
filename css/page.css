@@ -9,6 +9,12 @@ body {
 	height: 100px;
 }
 
+.foto{
+	border: solid thick blue;
+	height: 200px;
+	width: 200px;
+}
+
 .col-md-4 > section > p{
 	font-size: 80%;
 }
@@ -194,6 +200,8 @@ body {
 	float: left;
 	max-width: 50%;
 	word-break: break-word;
+	font-weight: bolder;
+	font-size: 115%;
 }
 
 .cv .skills section span {
