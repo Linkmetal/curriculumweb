@@ -9,12 +9,16 @@
   <link href="https://maxcdn.bootstrapcdn.com/font-awesome/4.5.0/css/font-awesome.min.css" rel="stylesheet prefetch" media="all">
   <link href="css/page.css" rel="stylesheet" media="all">
   <link href="css/time.css" rel="stylesheet" media="all">
+  <script src="./node_modules/jspdf/dist/jspdf.min.js"></script>
+  <script src="./node_modules/html2canvas/dist/html2canvas.min.js"></script>
+
+  <script src="print.js"></script>
 </head>
 
 <body>
-  <div class="cv container">
-    <div class="row">
-      <aside class="col-md-3">
+  <div id="cv" class="cv container">
+    <div class="row cv2">
+      <aside class="bio col-md-3">
         <img class="img-circle foto" src="img/f1.jpg">
         <h2><span>Carlos Javier</span> Díaz Falcón</h2>
         <p>Mi nombre es Carlos Javier Díaz Falcón y mi oficio es la programación y maquetación web.</p>
@@ -295,4 +299,4 @@
     </div>
   </div>
 </body>
-</html>c
+</html>
