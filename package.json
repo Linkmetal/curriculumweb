@@ -1,0 +1,25 @@
+{
+  "name": "curriculumweb",
+  "version": "1.0.0",
+  "description": "",
+  "main": "print.js",
+  "dependencies": {
+    "html2canvas": "^1.0.0-rc.3",
+    "html2pdf": "^0.0.11",
+    "jspdf": "^1.5.3"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Linkmetal/curriculumweb.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Linkmetal/curriculumweb/issues"
+  },
+  "homepage": "https://github.com/Linkmetal/curriculumweb#readme"
+}
